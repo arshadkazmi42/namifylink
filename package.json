@@ -1,6 +1,6 @@
 {
   "name": "namifylink",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generate filename using url domain",
   "main": "index.js",
   "scripts": {
