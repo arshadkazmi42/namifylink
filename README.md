@@ -1,6 +1,6 @@
 # namifylink
 
-[![Build](https://img.shields.io/travis/com/arshadkazmi42/namifylink.svg)](https://travis-ci.com/arshadkazmi42/namifylink/)
+[![Build](https://github.com/arshadkazmi42/namifylink/actions/workflows/nodejs.yml/badge.svg)](https://github.com/arshadkazmi42/namifylink/actions/workflows/nodejs.yml)
 
 Get domain name from url
 
