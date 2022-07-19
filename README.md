@@ -8,9 +8,6 @@
 [![Contributors](https://img.shields.io/github/contributors/arshadkazmi42/namifylink.svg)](https://github.com/arshadkazmi42/namifylink/graphs/contributors)
 [![Commit](https://img.shields.io/github/last-commit/arshadkazmi42/namifylink.svg)](https://github.com/arshadkazmi42/namifylink/commits/master)
 
-
-[![Build](https://github.com/arshadkazmi42/namifylink/actions/workflows/nodejs.yml/badge.svg)](https://github.com/arshadkazmi42/namifylink/actions/workflows/nodejs.yml)
-
 Get domain name from url
 
 ## Install
